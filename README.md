@@ -37,6 +37,7 @@
       <a href="https://github-readme-stats.vercel.app/api/wakatime?username=veddesai&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
           <img alt="Ved's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=veddesai&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       </a>
+       <p>Integrated Wakatime Late , So its much more than what it will be mentioned there!</p>
     </p>
     <br/>
   </div>
