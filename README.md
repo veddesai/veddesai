@@ -1,6 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=veddesai.veddesai&style=for-the-badge)
 [![Github](https://img.shields.io/github/followers/veddesai?label=Follow&style=for-the-badge&logo=github)](https://github.com/veddesai)
-[![wakatime](https://wakatime.com/badge/user/7ecf49c3-acf9-461f-8eaf-49c7cbb7e6da.svg)](https://wakatime.com/@7ecf49c3-acf9-461f-8eaf-49c7cbb7e6da)
+[![wakatime](https://wakatime.com/badge/user/7ecf49c3-acf9-461f-8eaf-49c7cbb7e6da.svg)](https://wakatime.com/@7ecf49c3-acf9-461f-8eaf-49c7cbb7e6da) 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ved Desai</h1>
 <p align="center">
